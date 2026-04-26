@@ -1,0 +1,6 @@
+plugins { id 'com.android.application' }
+android { namespace 'com.spy.v40'
+compileSdk 34
+defaultConfig { applicationId 'com.spy.v40'
+minSdk 24
+targetSdk 34 } }
